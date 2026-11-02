@@ -1,3 +1,7 @@
+#Name: Rakshit Choubey
+#ERP: RU-26-02613
+#Section: B2
+#Email: rakshit.choubey@rungta.org
 RATES_TO_INR = {
     "INR": 1,
     "USD": 83,
