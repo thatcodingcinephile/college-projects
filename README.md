@@ -150,3 +150,8 @@ Unsupported currency 'JPY'. Available: INR, USD, EUR, GBP
 - Add more currencies by adding entries to `RATES_TO_INR`
 - Let the user run several conversions without restarting the program
 - Load exchange rates from a file or a live API instead of fixed values
+
+MENTOR DETAILS:
+Name: Mr. Satyaprakash Sethy
+Github: @SATYAPRAKASHSETHY
+Role: Python Mentor/ Technical Guide
